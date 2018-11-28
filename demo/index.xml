@@ -17,26 +17,13 @@
     <data>
         <ui-entry>
             <i>
-                <title>问题反馈</title>
-                <href></href>
+                <title>自助建站</title>
+                <href>index</href>
                 <subtitle></subtitle>
-                <icon></icon>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/29ucuflu1TjozilzvrRv5rcAc8k-1000.png</icon>
                 <bg></bg>
             </i>
-            <i>
-                <title>商务合作</title>
-                <href></href>
-                <subtitle></subtitle>
-                <icon></icon>
-                <bg></bg>
-            </i>
-            <i>
-                <title>关于我们</title>
-                <href></href>
-                <subtitle></subtitle>
-                <icon></icon>
-                <bg></bg>
-            </i>
+            
         </ui-entry>
     </data>
 </root>

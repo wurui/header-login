@@ -1,3 +1,1 @@
-.oxmod-header-login{
-/* CSS */
- }
+.oxmod-header-login{text-align:center;height:36px;line-height:30px;font-size:0;padding:2px 5px}.oxmod-header-login a{color:inherit}.oxmod-header-login sub{color:#999;font-size:12px;font-weight:300}.oxmod-header-login .logo{max-height:36px;max-width:120px;vertical-align:middle}.oxmod-header-login .avatar{width:24px;height:24px;border-radius:50%;vertical-align:middle}.oxmod-header-login .left,.oxmod-header-login .right{display:inline-block;height:30px;font-size:16px;vertical-align:top}.oxmod-header-login .left{text-align:left;width:70%}.oxmod-header-login .right{text-align:right;width:30%}
