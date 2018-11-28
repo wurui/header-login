@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+        <nick>wurui</nick>
+    </login>
+    <p>
+        <title>header-login demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+        <ui-entry>
+            <i>
+                <title>问题反馈</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>商务合作</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+            <i>
+                <title>关于我们</title>
+                <href></href>
+                <subtitle></subtitle>
+                <icon></icon>
+                <bg></bg>
+            </i>
+        </ui-entry>
+    </data>
+</root>
