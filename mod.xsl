@@ -4,7 +4,7 @@
         <div class="J_OXMod oxmod-header-login" ox-mod="header-login">
         	<xsl:variable name="entry" select="data/ui-entry/i[1]"/>
         	<span class="left">
-        		<a href="{href}">
+        		<a href="{$entry/href}">
             		<xsl:if test="$entry/icon and $entry/icon !=''">
             			<img class="logo" src="{$entry/icon}"/>
             		</xsl:if>
